@@ -1,0 +1,9 @@
+1) Place all code files in whatever complier you use
+
+If you have "letterinwords.ser" already, skip the following step
+- Run Reader.java. This will save all of the words as boolean arrays, which is used to speed up the process
+
+Run Gamer.java as this is the primary code, and follow all insturctions given by the computer
+- Use all caps for letters
+- Corridinates are (x,y) 1 indexed with y increasing as you go down (Ex: Center square is 8,8 ; bottom-right square is 15,15 ; middle-right sqaure is 15, 8)
+- The words "Vertical" and "Horizontal" should be written exactly as typed
