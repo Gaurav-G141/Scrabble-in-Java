@@ -1,10 +1,12 @@
 SCRABBLE BOT!!
 
 -- Overview --
+
 A bot programmed to play a full game of scrabble, using the tiles on your rack and the board to suggest optimal plays
 Uses the American scrabble disctionary (Not sure which one exactly, credit goes to https://gist.github.com/deostroll for creating the dictionary used in this code, however you can use any dictionary you'd like
 
 -- Code Summary -- 
+
 Main files
 Board.java - Board class, holds functions regarding the state of the gameboard, most importantly whether or not a move is vaild
 ComputeWords.java - Uses the tiles in the rack to determine the full list of words that could possibly be played
@@ -18,6 +20,7 @@ useless.py - Small calculations, has no bearing in the actual program
 wordfinder.java - Test code for ComputeWords
 
 -- What was used --
+
 Solely coded in java
 .io and .util packages used, .lang used in one instance (Points)
 
@@ -34,6 +37,7 @@ Once you have the .ser file, run Gamer.java to start
 - Type "Vertical" or "Horizontal" when saying the orientation of your move
 
 -- Future Updates --
+
 - Fix minor bugs regarding vaildity system
 - Account for overlapped words and blanks (not counting blanks as points)
 
