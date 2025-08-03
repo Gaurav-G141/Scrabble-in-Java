@@ -38,6 +38,7 @@ Once you have the .ser file, run Gamer.java to start
 - Account for overlapped words and blanks (not counting blanks as points)
 
 -- Created by --
+
 Gaurav Gupta
 UT Austin Computer Science C.O. 2029
 Email: g.gupta31415@gmail.com
